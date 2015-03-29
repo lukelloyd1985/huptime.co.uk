@@ -46,3 +46,6 @@ p{
 	border-radius:5px;
 	border:#CCC 1px solid;
 }
+span#versionmsg{
+	font-size: x-small;
+}
